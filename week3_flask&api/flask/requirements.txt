@@ -1,0 +1,15 @@
+Flask
+flask_restful
+pymongo
+pandas
+numpy
+matplotlib
+jieba
+requests
+scikit-learn
+wordcloud
+dash
+visdcc
+
+
+
